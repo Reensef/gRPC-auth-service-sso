@@ -7,7 +7,7 @@ import (
 	"grpc-service-ref/internal/services/auth"
 	"grpc-service-ref/internal/storage"
 
-	ssov1 "github.com/JustSkiv/protos/gen/go/sso"
+	ssov1 "github.com/Reensef/gRPC-auth-service-protos/gen/go/sso"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
